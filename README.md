@@ -1,6 +1,6 @@
 # Excel-project-AtliQ-hardware-Sales-report-
 This is a sales analysis project in excel created during the codebasics bootcamp.
-#Introduction
+# Introduction
 AtliQ Hardware is a company that supplies computer hardware and peripherals to clients across India.AtliQ Hardware is one of India's leading computer hardware producers and has well-established operations in other countries. They combine advanced analytics and visualization techniques to provide a platform for informed decision-making. 
 # Key Features:
 Customer performance report
