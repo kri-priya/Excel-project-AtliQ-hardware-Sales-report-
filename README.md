@@ -13,6 +13,7 @@ AtliQ Hardware is a company that supplies computer hardware and peripherals to c
 # Benefits :
 * This initiative facilitates annual sales negotiations,refines product offerings, and monitorsmarket performance to meet specific targets.
 * Emphasizing profitability, this project empowers sales professionals to proper growth, strengthen customers relationships, and attain sales objectives.
+# Approach followed
 * Employed ETL (Extract, Transform, Load) techniques via Power Query to cleanse and format data.
 * Uploaded raw sales data in CSV format to Excel, initiating the data processing workflow.
 * Utilized Power Query to eliminate duplicates, null values, and establish necessary columns.
